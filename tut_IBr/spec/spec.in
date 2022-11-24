@@ -1,0 +1,9 @@
+2 3               ### Number of atoms and potentials
+1 0               ### First potential and printing level
+1000              ### Number of trajs
+n                 ### no correction (Bugged)
+0 10 1001         ### Range of energies
+1. 1. 1.          ### Dipole scale?
+0.1               ### Gaussian width for the spectra
+0 0 0             ### Energy range of allowed trajs
+1.                ### Renormalization factor

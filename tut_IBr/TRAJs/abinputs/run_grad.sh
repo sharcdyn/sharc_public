@@ -1,0 +1,1 @@
+cp TEMP/grad.dat .

@@ -1,0 +1,13 @@
+ Number of atoms and number of potentials
+ Potential where the initial conditions where created (usually 1) and printlevel (0 minimum, 1 (+energy.out), 2 (+individual.out) or 3 (+dipole*.out)
+ Last trajectory employed
+ Do you want kinetic energy correction (y/n)?
+ Range of energies and number of points for the spectrum (eV)
+   0.0000000000000000       0.36749843215538380             1001
+ Dipoles to scan X,Y,Z, (scale factor)
+ X     1.0000000000000000      Y     1.0000000000000000      Z     1.0000000000000000     
+ Gaussian width of the individual trajectories (eV)
+   3.6749843215538383E-003
+ Range where the trajectories are gonna be allowed (eV) and zero if you do not want to restrict (1 otherwise)
+   0.0000000000000000        0.0000000000000000                0
+ File geom with the equilibrium geometry must exist
